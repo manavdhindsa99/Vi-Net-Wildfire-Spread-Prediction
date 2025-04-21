@@ -1,1 +1,1 @@
-# Vi-Net-Wildfire-Spread-Prediction
+# Vi-Net: Wildfire-Spread-Prediction
